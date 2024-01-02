@@ -1,1 +1,1 @@
-/Users/ivaltier/Documents/Rust/functions/target/debug/functions: /Users/ivaltier/Documents/Rust/functions/src/main.rs
+/Users/ivaltier/Projects/Rust/functions/target/debug/functions: /Users/ivaltier/Projects/Rust/functions/src/main.rs

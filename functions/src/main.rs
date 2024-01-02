@@ -12,5 +12,3 @@ fn another_function() {
 fn third_function() {
     println!("This is the third function.");
 }
-
-third_function()
