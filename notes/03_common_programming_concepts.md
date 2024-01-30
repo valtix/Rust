@@ -1,3 +1,17 @@
+# Data Types
+* Rust is a compile language; so it must know the data types of all variables at compile time.
+
+## Scaler
+* They represent a single value
+* Integers
+	* signed: i8, i16, i32, etc...
+* Floating-point numbers
+	* unsigned: u8, u16, u32, etc...
+* Booleans
+	* True or False
+* Characters
+	* 'z', 'etc', (note that they are expressed with single quotes)
+
 # Functions
 
 * Rust uses snake case (i.e., this_is_snake_case)
@@ -33,7 +47,7 @@
      1. ```5+6```
      2. ```5```
 
-## Comments
+# Comments
 
 * In Rust you comment via the use of double forward slashes: ```// this is a comment```
 
